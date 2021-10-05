@@ -33,15 +33,15 @@ Damage: 40
 
 The map of the dungeon prints out in the format : 
 Map of dungeon:
-\* * * * * 
-\* * B * * 
-\* * | * * 
-\* * ? * * 
-\* * | * * 
-\* * X * * 
-\* * | * * 
-\* * X * * 
-\* * | * * 
+\* * * * *  
+\* * B * *  
+\* * | * *  
+\* * ? * *  
+\* * | * *  
+\* * X * *  
+\* * | * *  
+\* * X * *  
+\* * | * *  
 
 at the start of the simulation.
 
@@ -70,15 +70,15 @@ required method).
 Note: It is rather difficult for the hero to win! The hero also has a random name out of a set few.
 EXAMPLE RUNS (A Victory and a Game Over):
 Map of dungeon:
-* * * * * 
-* * B * * 
-* * | * * 
-* * X * * 
-* * | * * 
-* * M * * 
-* * | * * 
-* * ? * * 
-* * | * * 
+\* * * * *  
+\* * B * *  
+\* * | * *  
+\* * X * *   
+\* * | * *   
+\* * M * *   
+\* * | * *   
+\* * ? * *   
+\* * | * *   
 
 The dungeon contains: 
 1 item rooms. ?
@@ -126,15 +126,15 @@ Process finished with exit code 0
 
 
 Map of dungeon:
-* * * * * 
-* * B * * 
-* * | * * 
-* * ? * * 
-* * | * * 
-* * X * * 
-* * | * * 
-* * X * * 
-* * | * * 
+\* * * * *  
+\* * B * *   
+\* * | * *   
+\* * ? * *   
+\* * | * *   
+\* * X * *   
+\* * | * *   
+\* * X * *   
+\* * | * *   
 
 The dungeon contains: 
 1 item rooms. ?
