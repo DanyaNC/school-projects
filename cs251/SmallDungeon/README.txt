@@ -1,3 +1,5 @@
+SmallDungeon
+Note: This is an old project from my CS251 class, taken my second semester at UNM.
 DESCRIPTION:
 This is my take on the SmallWorld assignment.
 My project is the creation of a small dungeon with 3-5 rooms.
