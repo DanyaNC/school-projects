@@ -1,4 +1,6 @@
-DESCRIPTION:
+# Small Dungeon
+This is a project I did that creates a random dungeon scenario in the terminal, it has random rooms, random encounters, and a final boss battle. Additional descriptions and outputs are shown below.
+## DESCRIPTION:
 This is my take on the SmallWorld assignment.
 My project is the creation of a small dungeon with 3-5 rooms.
 These rooms are one of 4 types:
