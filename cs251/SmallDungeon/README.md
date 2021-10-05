@@ -32,7 +32,7 @@ HP: 100
 Damage: 40
 
 The map of the dungeon prints out in the format : 
-Map of dungeon:
+Map of dungeon:  
 \* * * * *  
 \* * B * *  
 \* * | * *  
@@ -69,7 +69,7 @@ required method).
 
 Note: It is rather difficult for the hero to win! The hero also has a random name out of a set few.
 EXAMPLE RUNS (A Victory and a Game Over):
-Map of dungeon:
+Map of dungeon:    
 \* * * * *  
 \* * B * *  
 \* * | * *  
@@ -125,7 +125,7 @@ Process finished with exit code 0
 
 
 
-Map of dungeon:
+Map of dungeon:  
 \* * * * *  
 \* * B * *   
 \* * | * *   
