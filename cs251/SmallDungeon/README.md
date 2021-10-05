@@ -33,15 +33,15 @@ Damage: 40
 
 The map of the dungeon prints out in the format : 
 Map of dungeon:
-* * * * * 
-* * B * * 
-* * | * * 
-* * ? * * 
-* * | * * 
-* * X * * 
-* * | * * 
-* * X * * 
-* * | * * 
+\* * * * * 
+\* * B * * 
+\* * | * * 
+\* * ? * * 
+\* * | * * 
+\* * X * * 
+\* * | * * 
+\* * X * * 
+\* * | * * 
 
 at the start of the simulation.
 
